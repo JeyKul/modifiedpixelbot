@@ -17,7 +17,7 @@ FORM = "https://forms.gle/HMy57F8zqHwKHzfb6"
 HELLO = """
 Hello!
 
-I'm Pixelbot, a bot created by @thegreatporg based on ideas from @pixel2020_official. The main topic of me is phones.
+I'm GalaxyBot, a bot originally created by @thegreatporg and modiefied by @JeyKul based on ideas from @pixel2020_official and @OT9810. The main topic of me is phones.
 I'm in development. You can suggest commands for me with /suggest.
 I'm also open source. Check the source code with /source.
 Last but not least, you can support my creators by checking out /donate.
@@ -59,7 +59,7 @@ def credits(update, context):
 	update.message.reply_text(text=CREDITS)
 
 def oss(update, context):
-	update.message.reply_text(text="Click [here](https://gitlab.com/narektor/pixelbot/) to see my source!", parse_mode=telegram.ParseMode.MARKDOWN)
+	update.message.reply_text(text="Click [here](https://github.com/JeyKul/modifiedpixelbot) to see my source!", parse_mode=telegram.ParseMode.MARKDOWN)
 
 def feats(update, context):
 	update.message.reply_text(text=f"To suggest features, topics and helpful Magisk modules (for /modules) fill and submit [this]({FORM}) form.", parse_mode=telegram.ParseMode.MARKDOWN)
