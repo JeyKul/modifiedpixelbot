@@ -1,0 +1,36 @@
+*USEFUL COMMANDS*
+/root \- root guide
+/rootsam \- root guide for Samsung
+/ab \- A/B partition explainer
+/taptap \- link to Tap, Tap APK
+/blokada \- Blokada guide
+/flash \- flashing guide
+/modules \- helpful Magisk modules from Pixelbot users
+/asb \- get latest Android Security Bulletin
+/psb \- get latest Pixel Security Bulletin
+/odin \- get latest version of Odin
+/adbL,W,M \- get latest version of adb for *L*inux, *W*indows or *M*ac
+
+*JOKE COMMANDS*
+/eta \- gives a random ETA
+/ram \- uses patented technology to download RAM
+/rr \- rickroll link
+/sb \- "get stick bugged lol" link
+/google \- reply to someone to get a link to Google
+/slap \- slap someone
+/punch \- punch someone
+/kill \- kill someone the Minecraft way
+
+*OTHER COMMANDS*
+/help \- this list
+/credits \- see credits for various commands
+/source \- source code
+/suggest \- suggest a feature
+
+*ADMIN COMMANDS*
+/kick \- kick a user
+/ban \- ban a user
+/unban \- un\-ban a user
+/pardon \- same as /unban but more polite
+
+_See /credits for credits\._

@@ -1,0 +1,5 @@
+*Helpful modules from Pixelbot users*
+
+\- Webview Switcher: Did you know that one of the methods OEMs use to track you is using various scripts on their server? Webview Switcher helps you switch the default android webview with a safer and better version\. The bromite webview can block online ads which bother every user in their daily experience\.
+\- Google Dialer framework: In many stock ROMs, users are bothered by their default dialer\. Google's default dialer is certainly one of the best and moreover it is feature rich\. We recommend you to replace your current dialer with Google's; as an old saying goes, Google knows what is best for you :D
+\- Daily Job Scheduler: Run commands and scripts at boot, very flexible for superusers\.

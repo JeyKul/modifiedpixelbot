@@ -1,0 +1,12 @@
+__pycache__/
+mwe/
+config.py
+fakeModules/
+changelogs/
+groups.pxb
+androlib/__pycache__/
+freezer/
+resources/dedhd.png
+resources/gended.py
+resources/sample-out*.*
+sample-out.webp
