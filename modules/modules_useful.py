@@ -145,6 +145,36 @@ def getPTmac(update, context):
 def adbHelp(update, context):
 	update.message.reply_text(text=ADB_ERROR)
 
+def AbootLoop(update, context):
+	f = open("bootloop.txt","r")
+	update.message.reply_text(text=f.read(), parse_mode=telegram.ParseMode.MARKDOWN_V2)
+	f.close()
+
+def AbootSplashLoop(update, context):
+	f = open("bootsplashloop.txt","r")
+	update.message.reply_text(text=f.read(), parse_mode=telegram.ParseMode.MARKDOWN_V2)
+	f.close()
+
+def AsystemBootLoop(update, context):
+	f = open("systembootloop.txt","r")
+	update.message.reply_text(text=f.read(), parse_mode=telegram.ParseMode.MARKDOWN_V2)
+	f.close()
+
+def errormessagesinstall(update, context):
+	f = open("errormessagesinstaller.txt","r")
+	update.message.reply_text(text=f.read(), parse_mode=telegram.ParseMode.MARKDOWN_V2)
+	f.close()
+
+def systemlinks(update, context):
+	f = open("systemlinksfail.txt","r")
+	update.message.reply_text(text=f.read(), parse_mode=telegram.ParseMode.MARKDOWN_V2)
+	f.close()
+
+def fullSystemMemory(update, context):
+	f = open("systemfull.txt","r")
+	update.message.reply_text(text=f.read(), parse_mode=telegram.ParseMode.MARKDOWN_V2)
+	f.close()
+
 CONTENTS = [
 	CommandHandler('root', root, run_async=True),
 	CommandHandler('rootsam', root_sammy, run_async=True),
@@ -160,5 +190,11 @@ CONTENTS = [
 	CommandHandler('adbW', getPTwin, run_async=True),
 	CommandHandler('adbL', getPTlnx, run_async=True),
 	CommandHandler('adbM', getPTmac, run_async=True),
-	CommandHandler('adb', adbHelp, run_async=True)
+	CommandHandler('adb', adbHelp, run_async=True),
+	CommandHandler('bootloop', AbootLoop, run_async=True),
+	CommandHandler('bootsplashloop', AbootSplashLoop, run_async=True),
+	CommandHandler('systembootloop', AsystemBootLoop, run_async=True),
+	CommandHandler('errormessages', errormessagesinstall, run_async=True),
+	CommandHandler('somesystemlinksfailed', systemlinks, run_async=True),
+	CommandHandler('full_system_memory', fullSystemMemory, run_async=True)
 ]
