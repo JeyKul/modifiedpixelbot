@@ -1,0 +1,23 @@
+*Some systemlinks failed*
+
+This bug is a anoying one\.
+
+Make sure to have checked this; The devices SM\-G960N, SM\-G965N and SM\-N960N have problems with the NON\-N Variant zip\. 
+
+If you have one of the N devices, take this:
+
+[Noblerom downloads](https://www.androidfilehost.com/?w=files&flid=326262)
+
+Make sure then to use the one with the prefix "ONLY\_N\_VARIANT"\!
+
+If you still have this issue or never had it, make sure to wipe these partitions:
+
+/system
+/vendor
+/chache
+/davlik 
+/data \(THIS WILL DELETE YOUR APPS AND YOUR APP DATA \(Internal storage wont get deleted\) TAKE A BACKUP BEFORE DOING IT\)
+
+and try installing the rom again\.
+
+

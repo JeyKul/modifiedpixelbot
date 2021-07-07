@@ -1,0 +1,17 @@
+Oh well\.\.\.
+
+The fix is easy \:D
+
+Go to TWRP\. 
+
+Go to Wipe and delete dalvik / ART Cache, Cache, System, Vendor, Data\. IF YOU SWIPE NOW, ALL YOUR APPS AND DATA \(exept for Internal storage\) WILL BE GONE\!
+
+After you did that, go back to home and go to install\. 
+
+Select your Noble\.zip and install it\. If you are new to rooting and this is your first time installing a Rom, choose "NO DEBLOAT" or "ALEXIS DEBLOAD"\.
+Quick note: If you select "ALEXIS DEBLOAT", you wont be able to connect to VPN\.
+
+
+After you installed the zip it should boot now\.
+
+Have Fun\!

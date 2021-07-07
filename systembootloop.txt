@@ -1,0 +1,21 @@
+Hm\.\.\. Weird
+
+A System bootloop is most likely caused by the User\.
+
+First you need to think, what you did before you got into the loop\.
+
+If you installed a Module in magisk, boot to TWRP and go to `Advanced` and click on `Filemanager`\.
+
+Then, if you are located in `/sdcard`, click on `\(Up A Level\)` and you are now in `/`\. 
+Navigate to `/data/adb/modules` and delete your recently installed module\.
+
+
+If this bootloop appeared after installing the rom, well\.\.\. Wait for atleast 10 more minutes\. 
+
+This doesn't help? Then go to TWRP and try installing [Magisk](https://bytestransfer.com/download/txvcxv7hnpy00pgfmiiz4k0y7)\.
+
+If that still doesnt help, make sure that you checked the /errormessages\!
+
+We will find a solution for your problem\.
+
+

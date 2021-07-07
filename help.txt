@@ -11,15 +11,22 @@
 /odin \- get latest version of Odin
 /adbL,W,M \- get latest version of adb for *L*inux, *W*indows or *M*ac
 
+*NOBLE RELATED COMMANDS*
+
+/bootloop \- gives you 2 options to help you with your loop
+/errormessages \- Helps with the current known errormessages
+
 *JOKE COMMANDS*
 /eta \- gives a random ETA
 /ram \- uses patented technology to download RAM
 /rr \- rickroll link
 /sb \- "get stick bugged lol" link
+/searchurselfretard \- reply to someone to get a link to Google
 /google \- reply to someone to get a link to Google
 /slap \- slap someone
 /punch \- punch someone
 /kill \- kill someone the Minecraft way
+/hug \- hugs someone
 
 *OTHER COMMANDS*
 /help \- this list
@@ -28,9 +35,9 @@
 /suggest \- suggest a feature
 
 *ADMIN COMMANDS*
-/kick \- kick a user
-/ban \- ban a user
-/unban \- un\-ban a user
-/pardon \- same as /unban but more polite
+/yeet \- kick a user
+/harderyeet \- ban a user
+/undotheyeet \- un\-ban a user
+/sexyundoyeet \- same as /undotheyeet but more sexy
 
 _See /credits for credits\._

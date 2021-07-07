@@ -1,0 +1,8 @@
+*You typed bootloop?*
+I am here to help\!
+
+So\. First of all we need to figure out, what kind of bootloop you have\.
+
+Do you have a /bootsplashloop or a /systembootloop\?
+
+Click on your option\!

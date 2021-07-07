@@ -1,0 +1,8 @@
+*Full System Memory*
+
+If you get that error, the fix should be very easy\.
+Just go to your TWRP Home and go to wipe\.
+Click on advanced wipe and choose System\. Then retry the installation\!
+
+If you still get the error, backup and clean your internal storage\.
+Retry once more then\!

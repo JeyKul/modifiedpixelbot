@@ -1,0 +1,6 @@
+*Errormessages*
+
+Choose one in the list\.
+
+/somesystemlinksfailed
+/full\_system\_memory
